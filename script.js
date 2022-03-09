@@ -17,15 +17,15 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 let songs = [{
 
     0: { songName: "Ambitionz Az a Ridah", filePath: "songs/ambitionz_az_a_ridah.mp3", coverPath: "Covers/all_eyez.png" },
-    1: { songName: "It's On", filePath: "songs/its_on.mp3", coverPath: "Covers/its_on.png" },
-    2: { songName: "Only God Can Judge Me", filePath: "songs/only_god_can_judge_me.mp3", coverPath: "Covers/all_eyez.png" },
-    3: { songName: "Notorious Thugs", filePath: "songs/notorious_thugs.mp3", coverPath: "Covers/long_kiss.png" },
-    4: { songName: "Real Muthaphuckkin G's", filePath: "songs/real_mf_g.mp3", coverPath: "Covers/its_on.png" },
-    5: { songName: "Hail Mary", filePath: "songs/Hail_Mary.mp3", coverPath: "Covers/don_kil.png" },
-    6: { songName: "Long Kiss Goodnight", filePath: "songs/long_kiss_goodnight.mp3", coverPath: "Covers/long_kiss.png" },
-    7: { songName: "Who Shot Ya?", filePath: "songs/who_shot_ya.mp3", coverPath: "Covers/ready_to_die.png" },
-    8: { songName: "Boyz n Tha Hood (G-Mix)", filePath: "songs/boyz_n_the_hood.mp3", coverPath: "Covers/its_on.png" },
-    9: { songName: "California Love", filePath: "songs/california_love.mp3", coverPath: "Covers/all_eyez.png" },
+    1: { songName: "It's On", filePath: "songs/ambitionz_az_a_ridah.mp3" , coverPath: "Covers/its_on.png" },
+    2: { songName: "Only God Can Judge Me", filePath: "songs/ambitionz_az_a_ridah.mp3" , coverPath: "Covers/all_eyez.png" },
+    3: { songName: "Notorious Thugs", filePath: "songs/ambitionz_az_a_ridah.mp3", coverPath: "Covers/long_kiss.png" },
+    4: { songName: "Real Muthaphuckkin G's", filePath: "songs/ambitionz_az_a_ridah.mp3", coverPath: "Covers/its_on.png" },
+    5: { songName: "Hail Mary", filePath: "songs/ambitionz_az_a_ridah.mp3", coverPath: "Covers/don_kil.png" },
+    6: { songName: "Long Kiss Goodnight", filePath: "songs/ambitionz_az_a_ridah.mp3", coverPath: "Covers/long_kiss.png" },
+    7: { songName: "Who Shot Ya?", filePath: "songs/ambitionz_az_a_ridah.mp3" , coverPath: "Covers/ready_to_die.png" },
+    8: { songName: "Boyz n Tha Hood (G-Mix)", filePath: "songs/ambitionz_az_a_ridah.mp3" , coverPath: "Covers/its_on.png" },
+    9: { songName: "California Love", filePath: "songs/ambitionz_az_a_ridah.mp3" , coverPath: "Covers/all_eyez.png" },
 }
 ];
 

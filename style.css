@@ -19,16 +19,22 @@ nav ul{
     display: flex;
     align-items: center;
 
-
-
     list-style-type: none;
     height: 65px;
     background-color: black;
     color: white;
 }
 
-nav ul li{
+nav ul a{
     padding: 0 12px;
+    text-decoration: none;
+    color: white;
+}
+
+nav ul a:hover{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border-radius: 20px;
 }
 
 .brand img{
@@ -53,7 +59,7 @@ nav ul li{
    width: 70%;
    border-radius: 12px;
    padding: 34px;
-   background-image: url('bg.jpg');
+   background: url('bg.jpg') no-repeat center center/cover;
 }
 
 .bottom{
